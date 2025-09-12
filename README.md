@@ -18,7 +18,7 @@ hola esto es un párrafo
 `
 este es un bloque de codigo de programación: 
 if x>3:
-	print("x es mayor")
+	print("x es hjjjjjjjjjjjj")
 else: 
 	print ("x es menor")
 `
